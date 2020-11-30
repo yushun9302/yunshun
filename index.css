@@ -1,0 +1,11 @@
+.box{
+    width: 100px;
+    height:100px;
+    background-color: #eee;
+    line-height: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px  #f40;
+    display: none;
+}
